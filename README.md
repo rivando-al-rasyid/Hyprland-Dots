@@ -73,9 +73,7 @@ chmod +x upgrade.sh
 
 
 ### 💖 Thanks
-- a Star on my Github repos would be nice 🌟
-
-- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit)
+- [@JaKooLit](https://github.com/JaKooLit) for making an actually good install script + many other stuff that I neglect
 
 
 ### 🙏 Support
