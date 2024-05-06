@@ -71,15 +71,14 @@ chmod +x upgrade.sh
 - QUICK HINT! Click the HINT! Waybar module (note only available in Waybar default and Simple-L [TOP] layout). Can be launched by Keybind SUPER H
 - More question? click here [WIKI](https://github.com/JaKooLit/Hyprland-Dots/wiki/)
 
-#### 🙏 Special request
-- If you have improvements on the dotfiles or configuration, feel free to submit a PR for improvement. I always welcome improvements as I am also just learning just like you guys!
-- Waybar styles (all those new panel styles require some tweaking) - I kindly request assistance 🙏
 
-#### 🤷‍♂️ TO DO!
-- [ ] Tweak dots - 🚧 in constant progress
+### 💖 Thanks
+- a Star on my Github repos would be nice 🌟
+
+- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit)
 
 
-### 💖 Support
+### 🙏 Support
 - a Star on my Github repos would be nice 🌟
 
 - Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit)
@@ -89,11 +88,3 @@ chmod +x upgrade.sh
 <a href='https://ko-fi.com/jakoolit' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JaKooLit)
-
-
-
-## 🥰🥰 💖💖 👍👍👍
-[![Stargazers over time](https://starchart.cc/JaKooLit/Hyprland-Dots.svg?variant=adaptive)](https://starchart.cc/JaKooLit/Hyprland-Dots)
-
-### 💖 Support
-- a Star on my Github repos would be nice 🌟
